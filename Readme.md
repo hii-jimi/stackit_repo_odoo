@@ -14,3 +14,11 @@ StackIt is a minimal question-and-answer platform that supports collaborative le
 
 - **Team Member 1:** Mehul Patel  
   📧 swatmehul@gmail.com
+
+---
+
+## 🎥 Project Video
+
+📺 [Click here to watch the demo video](https://drive.google.com/file/d/1E8i2kcOnjUxJiyFz1CH-okYtUF8JGVi0/view?usp=drive_link)
+
+---
